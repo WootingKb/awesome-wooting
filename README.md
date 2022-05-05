@@ -9,6 +9,7 @@ A collection of Wooting related awesomeness!
 - [Wooting Analog SDK](https://github.com/WootingKb/wooting-analog-sdk) SDK for reading the analog data from analog keyboards
 - [Wooting RGB SDK](https://github.com/WootingKb/wooting-rgb-sdk) SDK for controlling the RGB of Wooting keyboards
 - [OpenRGB](https://gitlab.com/CalcProgrammer1/OpenRGB) Open source & cross-platform RGB lighting control that doesn't depend on manufacturer software (with support for Wooting Keyboards)
+- [RGB.NET](https://github.com/DarthAffe/RGB.NET) .NET SDK for controlling RGB across various manufacturers
 
 ### Language Wrappers
 
