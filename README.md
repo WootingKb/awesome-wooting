@@ -25,14 +25,15 @@ A collection of Wooting related awesomeness!
 ## Software
 
 - [Artemis RGB](https://artemis-rgb.com/) Unified RGB Software covering many manufacturers and devices (including Wooting), with support for many Games and effects
-- [Project Aurora](https://github.com/antonpup/Aurora) Similar to Artemis, but not really maintained anymore
+- [Aurora RGB](https://github.com/antonpup/Aurora) Similar to Artemis, but not really maintained anymore
 - [Wooting Profile Switcher](https://github.com/ShayBox/WootingProfileSwitcher) A small tool to automatically switch between the profiles of your Wooting keyboard.
 - [Wooting Analog MIDI](https://github.com/WootingKb/wooting-analog-midi) Simple app that converts Analog inputs into MIDI
 
 ## Integrations
 
-- [Analog Overlay for OBS](https://github.com/DarrenVs/analog_keyboard_overlay) [Demo](https://darrenvs.github.io/analog_keyboard_overlay/) A browser plugin for OBS Studio with an overlay that displays (virtual)controller axes as a keyboard for those who want to show off their analog keyboards on stream/recordings
+- [Analog Overlay for OBS](https://github.com/DarrenVs/analog_keyboard_overlay) [(Demo)](https://darrenvs.github.io/analog_keyboard_overlay/) A browser plugin for OBS Studio with an overlay that displays (virtual)controller axes as a keyboard for those who want to show off their analog keyboards on stream/recordings
 - [Space Engineers WootingPlugin](https://github.com/Garbius/WootingPlugin) Plugin that adds analog control to various elements in Space Engineers
+- [Space Engineers Analog Wheels](https://github.com/Garbius/SEAnalogWheels) This is a plugin for Space Engineers that allows analog control of the brakes and throttle of wheeled vehicles.
 - [Kerbal Space Program plugin](https://github.com/Kristallranke/KSPW00tNow) A plugin for Kerbal Space Program which adds support for Wooting keyboards
 
 ## Misc
