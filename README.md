@@ -31,6 +31,7 @@ A collection of Wooting related awesomeness!
 
 ## Integrations
 
+- [Analog Overlay for OBS](https://github.com/DarrenVs/analog_keyboard_overlay) (Demo)[https://darrenvs.github.io/analog_keyboard_overlay/] A browser plugin for OBS Studio with an overlay that displays (virtual)controller axes as a keyboard for those who want to show off their analog keyboards on stream/recordings
 - [Space Engineers WootingPlugin](https://github.com/Garbius/WootingPlugin) Plugin that adds analog control to various elements in Space Engineers
 - [Kerbal Space Program plugin](https://github.com/Kristallranke/KSPW00tNow) A plugin for Kerbal Space Program which adds support for Wooting keyboards
 
