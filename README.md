@@ -15,7 +15,7 @@ A collection of Wooting related awesomeness!
 
 - [Analog Unreal Engine plugin](https://github.com/WootingKb/wooting-analog-unreal-plugin) Plugin for Unreal Engine to support the integration of Wooting Analog inputs
 - [Python Wooting RGB](https://github.com/xiamaz/python-wooting-rgb) Python wrapper for Wooting RGB SDK
-- [Rust Wooting SDK](https://github.com/davidtwco/rust-wooting-sdk) Rust wrapper for Wooting RGB SDK (and legacy Analog SDK)
+- [Rust Wooting RGB](https://github.com/ShayBox/Wooting-RGB) Rust wrapper for Wooting RGB SDK
 - [WootingAnalogSDK.NET](https://github.com/WootingKb/wooting-analog-wrappers) .NET Wrapper for the Wooting Analog SDK
 - [Wooting.NET](https://github.com/simon-wh/Wooting.NET) .NET Wrapper for the Wooting RGB SDK
 - [Wooting.JS](https://github.com/Mexican-Man/wooting-js) Lightweight Javascript(TS) library for reading analog input on the Web using WebHID!
