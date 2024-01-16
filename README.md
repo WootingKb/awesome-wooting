@@ -31,7 +31,7 @@ A collection of Wooting related awesomeness!
 - [Aurora RGB](https://github.com/antonpup/Aurora) Similar to Artemis, but not really maintained anymore
 - [Wooting Profile Switcher](https://github.com/ShayBox/WootingProfileSwitcher) A small tool to automatically switch between the profiles of your Wooting keyboard.
 - [Wooting Analog MIDI](https://github.com/WootingKb/wooting-analog-midi) Simple app that converts Analog inputs into MIDI
-- [Wootili-View](https://github.com/MrEnder0/wootili-view) Dynamic lighting software for wooting devices 
+- [Wootili-View](https://github.com/MrEnder0/wootili-view) Ambilight software for wooting devices 
 
 ## Integrations
 
