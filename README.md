@@ -44,3 +44,4 @@ A collection of Wooting related awesomeness!
 ## Misc
 
 - [Wooting Snake](https://github.com/TanTanDev/wooting_snake) Snake on wooting keyboards, written with Rust
+- [wootinstaller](https://github.com/Calslock/wootinstaller) Wootility auto-configurator and installer for Linux/Steam Deck
