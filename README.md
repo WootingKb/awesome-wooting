@@ -37,6 +37,7 @@ A collection of Wooting related awesomeness!
 
 - [Analog Overlay for OBS](https://github.com/DarrenVs/analog_keyboard_overlay) [(Demo)](https://darrenvs.github.io/analog_keyboard_overlay/) A browser plugin for OBS Studio with an overlay that displays (virtual)controller axes as a keyboard for those who want to show off their analog keyboards on stream/recordings
 - [Woot-verlay](https://github.com/DjCrqss/Woot-verlay) Inspired by the Analog Overlay for OBS, but makes use of the Analog SDK to give full analog visualisation. By DjCrqss
+- [AnalogSense](https://github.com/Sainan/AnalogSense) A mod that patches analog input into Cyberpunk 2077 and Grand Theft Auto V.
 - [Space Engineers WootingPlugin](https://github.com/Garbius/WootingPlugin) Plugin that adds analog control to various elements in Space Engineers
 - [Space Engineers Analog Wheels](https://github.com/Garbius/SEAnalogWheels) This is a plugin for Space Engineers that allows analog control of the brakes and throttle of wheeled vehicles.
 - [Kerbal Space Program plugin](https://github.com/Kristallranke/KSPW00tNow) A plugin for Kerbal Space Program which adds support for Wooting keyboards
