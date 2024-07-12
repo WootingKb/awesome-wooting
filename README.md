@@ -44,5 +44,6 @@ A collection of Wooting related awesomeness!
 
 ## Misc
 
+- [Universal Analog Plugin](https://github.com/calamity-inc/universal-analog-plugin) is a plugin for the Wooting Analog SDK that adds support for Razer keyboards
 - [Wooting Snake](https://github.com/TanTanDev/wooting_snake) Snake on wooting keyboards, written with Rust
 - [wootinstaller](https://github.com/Calslock/wootinstaller) Wootility auto-configurator and installer for Linux/Steam Deck
