@@ -10,6 +10,7 @@ A collection of Wooting related awesomeness!
 - [Wooting RGB SDK](https://github.com/WootingKb/wooting-rgb-sdk) SDK for controlling the RGB of Wooting keyboards
 - [OpenRGB](https://gitlab.com/CalcProgrammer1/OpenRGB) Open source & cross-platform RGB lighting control that doesn't depend on manufacturer software (with support for Wooting Keyboards)
 - [RGB.NET](https://github.com/DarthAffe/RGB.NET) .NET SDK for controlling RGB across various manufacturers
+- [D0DA Protocol](https://github.com/meeuw/d0da) Reverse engineering effort of Wooting D0DA Protocol implemented as Python SDK.
 
 ### Language Wrappers
 
