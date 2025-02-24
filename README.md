@@ -4,27 +4,6 @@
 
 A collection of Wooting related awesomeness!
 
-## Libraries
-
-- [Wooting Analog SDK](https://github.com/WootingKb/wooting-analog-sdk) SDK for reading the analog data from analog keyboards
-- [Wooting RGB SDK](https://github.com/WootingKb/wooting-rgb-sdk) SDK for controlling the RGB of Wooting keyboards
-- [OpenRGB](https://gitlab.com/CalcProgrammer1/OpenRGB) Open source & cross-platform RGB lighting control that doesn't depend on manufacturer software (with support for Wooting Keyboards)
-- [RGB.NET](https://github.com/DarthAffe/RGB.NET) .NET SDK for controlling RGB across various manufacturers
-
-### Language Wrappers
-
-- [Analog Unreal Engine plugin](https://github.com/WootingKb/wooting-analog-unreal-plugin) Plugin for Unreal Engine to support the integration of Wooting Analog inputs
-- [Python Wooting RGB](https://github.com/xiamaz/python-wooting-rgb) Python wrapper for Wooting RGB SDK
-- [Rust Wooting RGB](https://github.com/ShayBox/Wooting-RGB) Rust wrapper for Wooting RGB SDK
-- [WootingAnalogSDK.NET](https://github.com/WootingKb/wooting-analog-wrappers) .NET Wrapper for the Wooting Analog SDK
-- [Wooting.NET](https://github.com/simon-wh/Wooting.NET) .NET Wrapper for the Wooting RGB SDK
-- [Wooting.JS](https://github.com/Mexican-Man/wooting-js) Lightweight Javascript(TS) library for reading analog input on the Web using WebHID!
-- [DeviceRGB - UE4](https://github.com/pramberg/DeviceRGB) Plugin for UE4 that lets you control RGB devices using materials and textures (With Wooting RGB SDK support)
-
-## Resources
-
-- [Wooting Design Files](https://github.com/WootingKb/wooting-design) Design and hardware files for Wooting keyboards
-
 ## Software
 
 - [Artemis RGB](https://artemis-rgb.com/) Unified RGB Software covering many manufacturers and devices (including Wooting), with support for many Games and effects
@@ -47,3 +26,27 @@ A collection of Wooting related awesomeness!
 - [Universal Analog Plugin](https://github.com/calamity-inc/universal-analog-plugin) is a plugin for the Wooting Analog SDK that adds support for Razer keyboards
 - [Wooting Snake](https://github.com/TanTanDev/wooting_snake) Snake on wooting keyboards, written with Rust
 - [wootinstaller](https://github.com/Calslock/wootinstaller) Wootility auto-configurator and installer for Linux/Steam Deck
+
+
+# For developers
+
+## Libraries
+
+- [Wooting Analog SDK](https://github.com/WootingKb/wooting-analog-sdk) SDK for reading the analog data from analog keyboards
+- [Wooting RGB SDK](https://github.com/WootingKb/wooting-rgb-sdk) SDK for controlling the RGB of Wooting keyboards
+- [OpenRGB](https://gitlab.com/CalcProgrammer1/OpenRGB) Open source & cross-platform RGB lighting control that doesn't depend on manufacturer software (with support for Wooting Keyboards)
+- [RGB.NET](https://github.com/DarthAffe/RGB.NET) .NET SDK for controlling RGB across various manufacturers
+
+### Language Wrappers
+
+- [Analog Unreal Engine plugin](https://github.com/WootingKb/wooting-analog-unreal-plugin) Plugin for Unreal Engine to support the integration of Wooting Analog inputs
+- [Python Wooting RGB](https://github.com/xiamaz/python-wooting-rgb) Python wrapper for Wooting RGB SDK
+- [Rust Wooting RGB](https://github.com/ShayBox/Wooting-RGB) Rust wrapper for Wooting RGB SDK
+- [WootingAnalogSDK.NET](https://github.com/WootingKb/wooting-analog-wrappers) .NET Wrapper for the Wooting Analog SDK
+- [Wooting.NET](https://github.com/simon-wh/Wooting.NET) .NET Wrapper for the Wooting RGB SDK
+- [Wooting.JS](https://github.com/Mexican-Man/wooting-js) Lightweight Javascript(TS) library for reading analog input on the Web using WebHID!
+- [DeviceRGB - UE4](https://github.com/pramberg/DeviceRGB) Plugin for UE4 that lets you control RGB devices using materials and textures (With Wooting RGB SDK support)
+
+## Resources
+
+- [Wooting Design Files](https://github.com/WootingKb/wooting-design) Design and hardware files for Wooting keyboards
